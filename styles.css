@@ -1,0 +1,19 @@
+body{
+    background-color: steelblue;
+}
+div {
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    margin-top: 20px;
+}
+h1 {
+    font-family: 'Pragati Narrow', sans-serif;
+    color: maroon;
+    text-transform: uppercase;
+    font-size: 2rem;
+}
+.link {
+    color: black;
+    font-size: 1rem;
+}
